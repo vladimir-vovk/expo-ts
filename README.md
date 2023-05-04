@@ -5,6 +5,8 @@
 <h1 align="center">Expo TypeScript</h1>
 <br>
 
+<img src="./screen.jpg" width="200"></img>
+
 Using [Expo 47](https://blog.expo.dev/expo-sdk-47-a0f6f5c038af). 
 
 Please read [Starting React Native Project in 2023](https://dev.to/vladimirvovk/starting-react-native-project-in-2023-2le) article for details. 

@@ -5,6 +5,7 @@ module.exports = {
   printWidth: 100,
   tabWidth: 2,
   useTabs: false,
+  // sort imports
   importOrderSeparation: true,
   importOrderSortSpecifiers: true,
   importOrderCaseInsensitive: true,

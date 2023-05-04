@@ -1,6 +1,6 @@
 {
   "name": "expo-ts",
-  "version": "2023.01.06",
+  "version": "2023.05.04",
   "description": "An opinionated template that will allow you to start a new React Native project quickly with Expo, TypeScript, Prettier, ESLint, and some custom configurations that will make development process better",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -37,30 +37,30 @@
     "url": "https://github.com/vladimir-vovk/expo-ts/issues"
   },
   "dependencies": {
-    "@types/react": "~18.0.24",
-    "@types/react-native": "~0.70.6",
-    "expo": "~47.0.9",
-    "expo-status-bar": "~1.4.2",
-    "react": "18.1.0",
-    "react-native": "0.70.5",
-    "react-native-safe-area-context": "4.4.1",
-    "typescript": "^4.6.3"
+    "@types/react": "~18.0.27",
+    "expo": "~48.0.15",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-safe-area-context": "4.5.0",
+    "typescript": "^4.9.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
-    "@commitlint/cli": "^17.4.0",
-    "@commitlint/config-conventional": "^17.4.0",
-    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.48.0",
-    "@typescript-eslint/parser": "^5.48.0",
-    "babel-plugin-module-resolver": "^4.1.0",
-    "eslint": "^8.31.0",
-    "eslint-config-universe": "^11.1.1",
-    "eslint-import-resolver-typescript": "^3.5.2",
+    "@babel/core": "^7.20.0",
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "@typescript-eslint/eslint-plugin": "^5.59.2",
+    "@typescript-eslint/parser": "^5.59.2",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "eslint": "^8.39.0",
+    "eslint-config-universe": "^11.2.0",
+    "eslint-import-resolver-typescript": "^3.5.5",
     "eslint-plugin-react-hooks": "^4.6.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.1.0",
-    "prettier": "^2.8.1",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8",
     "standard-version": "^9.5.0"
-  }
+  },
+  "private": true
 }
