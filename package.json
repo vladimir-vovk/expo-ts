@@ -74,6 +74,5 @@
     "lint-staged": "^13.2.2",
     "prettier": "^2.8.8",
     "standard-version": "^9.5.0"
-  },
-  "private": true
+  }
 }
