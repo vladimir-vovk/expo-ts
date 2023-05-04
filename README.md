@@ -7,7 +7,7 @@
 
 <img src="./screen.jpg" width="200"></img>
 
-Using [Expo 47](https://blog.expo.dev/expo-sdk-47-a0f6f5c038af). 
+Using [Expo 48](https://blog.expo.dev/expo-sdk-48-ccb8302e231).
 
 Please read [Starting React Native Project in 2023](https://dev.to/vladimirvovk/starting-react-native-project-in-2023-2le) article for details. 
 
@@ -33,6 +33,7 @@ Happy hacking! 🤓
 - Generate changelog with [standard-version](https://github.com/conventional-changelog/standard-version).
 - Lint commits with [Husky](https://github.com/typicode/husky).
 - [react-native-safe-area-context](https://docs.expo.dev/versions/latest/sdk/safe-area-context/).
+- Write tests with Jest and React Native Testing Library.
 
 ## Available commands
 
@@ -42,3 +43,4 @@ Happy hacking! 🤓
 - `yarn web` - run on web.
 - `yarn lint` - check code for errors.
 - `yarn release` - generate a changelog, bump the version of app and create a new tag.
+- `yarn test` - run tests.

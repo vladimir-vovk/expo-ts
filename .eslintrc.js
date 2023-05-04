@@ -16,5 +16,6 @@ module.exports = {
   /* for lint-staged */
   globals: {
     __dirname: true
-  }
+  },
+  plugins: ['jest']
 }
