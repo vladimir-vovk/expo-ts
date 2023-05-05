@@ -2515,7 +2515,7 @@
     semver "^7.3.7"
     tsutils "^3.21.0"
 
-"@typescript-eslint/utils@5.59.2", "@typescript-eslint/utils@^5.10.0":
+"@typescript-eslint/utils@5.59.2", "@typescript-eslint/utils@^5.10.0", "@typescript-eslint/utils@^5.58.0":
   version "5.59.2"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-5.59.2.tgz#0c45178124d10cc986115885688db6abc37939f4"
   integrity sha512-kSuF6/77TZzyGPhGO4uVp+f0SBoYxCDf+lW3GKhtKru/L8k/Hd7NFQxyWUeY7Z/KGB2C6Fe3yf2vVi4V9TsCSQ==
@@ -4612,6 +4612,13 @@ eslint-plugin-react@^7.31.11:
     resolve "^2.0.0-next.4"
     semver "^6.3.0"
     string.prototype.matchall "^4.0.8"
+
+eslint-plugin-testing-library@^5.10.3:
+  version "5.10.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.10.3.tgz#e613fbaf9a145e9eef115d080b32cb488fae622e"
+  integrity sha512-0yhsKFsjHLud5PM+f2dWr9K3rqYzMy4cSHs3lcmFYMa1CdSzRvHGgXvsFarBjZ41gU8jhTdMIkg8jHLxGJqLqw==
+  dependencies:
+    "@typescript-eslint/utils" "^5.58.0"
 
 eslint-scope@^5.1.1:
   version "5.1.1"

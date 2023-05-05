@@ -1,5 +1,10 @@
 module.exports = {
-  extends: ['universe', 'universe/shared/typescript-analysis', 'plugin:react-hooks/recommended'],
+  extends: [
+    'universe',
+    'universe/shared/typescript-analysis',
+    'plugin:react-hooks/recommended',
+    'plugin:testing-library/react'
+  ],
   overrides: [
     {
       files: ['*.ts', '*.tsx', '*.d.ts'],
@@ -17,5 +22,5 @@ module.exports = {
   globals: {
     __dirname: true
   },
-  plugins: ['jest']
+  plugins: ['jest', 'testing-library']
 }

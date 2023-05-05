@@ -33,7 +33,7 @@ Happy hacking! 🤓
 - Generate changelog with [standard-version](https://github.com/conventional-changelog/standard-version).
 - Lint commits with [Husky](https://github.com/typicode/husky).
 - [react-native-safe-area-context](https://docs.expo.dev/versions/latest/sdk/safe-area-context/).
-- Write tests with Jest and React Native Testing Library.
+- Write tests with [Jest](https://jestjs.io/) and [React Native Testing Library](https://testing-library.com/).
 
 ## Available commands
 
