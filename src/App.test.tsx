@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react-native'
+import { render, screen } from '@testing-library/react-native'
 
 import App from 'src/App'
 
@@ -8,7 +8,7 @@ describe('App', () => {
   })
 
   it('should unmount without errors', () => {
-    const { unmount } = render(<App />)
-    expect(() => unmount()).not.toThrow()
+    render(<App />)
+    expect(() => screen.unmount()).not.toThrow()
   })
 })
