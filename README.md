@@ -7,7 +7,7 @@
 
 <img src="./screen.jpg" width="200"></img>
 
-Using [Expo 48](https://blog.expo.dev/expo-sdk-48-ccb8302e231).
+Using [Expo 49](https://blog.expo.dev/expo-sdk-49-c6d398cdf740).
 
 Please read [Starting React Native Project in 2023](https://dev.to/vladimirvovk/starting-react-native-project-in-2023-2le) article for details. 
 

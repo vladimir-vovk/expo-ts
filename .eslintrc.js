@@ -23,8 +23,8 @@ module.exports = {
   globals: {
     __dirname: true
   },
-  plugins: ['jest', 'testing-library'],
   rules: {
     'no-console': 'error'
-  }
+  },
+  plugins: ['jest', 'testing-library']
 }

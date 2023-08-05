@@ -5,14 +5,14 @@ module.exports = {
   printWidth: 100,
   tabWidth: 2,
   useTabs: false,
-  // sort imports
+  /* sort imports */
   importOrderSeparation: true,
   importOrderSortSpecifiers: true,
   importOrderCaseInsensitive: true,
   importOrder: [
     '<THIRD_PARTY_MODULES>',
     // '^(.*)/components/(.*)$', // Add any folders you want to be separate
-    '^src/(.*)$', // Add any folders you want to be separate
+    '^src/(.*)$',
     '^(.*)/(?!generated)(.*)/(.*)$', // Everything not generated
     '^(.*)/generated/(.*)$', // Everything generated
     '^[./]' // Absolute path imports
