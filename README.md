@@ -7,9 +7,9 @@
 
 <img src="./screen.jpg" width="200"></img>
 
-Using [Expo 49](https://blog.expo.dev/expo-sdk-49-c6d398cdf740).
+Using [Expo 50](https://expo.dev/changelog/2024/01-18-sdk-50).
 
-Please read [Starting React Native Project in 2023](https://dev.to/vladimirvovk/starting-react-native-project-in-2023-2le) article for details. 
+Please read [Starting React Native Project in 2024](https://dev.to/vladimirvovk/starting-react-native-project-in-2023-2le) article for details. 
 
 ## Quick start
 
