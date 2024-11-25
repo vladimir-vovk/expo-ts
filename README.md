@@ -7,19 +7,17 @@
 
 <img src="./screen.jpg" width="200"></img>
 
-Using [Expo 50](https://expo.dev/changelog/2024/01-18-sdk-50).
+Using [Expo 52](https://expo.dev/changelog/2024/11-12-sdk-52).
 
-Please read [Starting React Native Project in 2024](https://dev.to/vladimirvovk/starting-react-native-project-in-2023-2le) article for details. 
+Please read [Starting React Native Project in 2025](https://dev.to/vladimirvovk/starting-react-native-project-in-2025-4n25) article for details.
 
 ## Quick start
 
 1. Run `npx create-expo-app -t expo-ts` command.
 2. Type your project name.
 3. Change directory to your project with `cd <your-project-name>` command.
-4. Run `yarn start` to start the Metro Bundler.
+4. Run `npm run start` to start the Metro Bundler.
 5. Press `i` to start the iOS simulator or `a` to run the Android emulator.📱
-
-Please use the `npx expo eject` command to switch to the "bare" react-native app. See the [docs](https://docs.expo.dev/introduction/managed-vs-bare/) to learn about the difference between managed and bare workflows.
 
 Happy hacking! 🤓
 
@@ -37,10 +35,11 @@ Happy hacking! 🤓
 
 ## Available commands
 
-- `yarn start` - start Metro Bundler.
-- `yarn ios` - run on iOS.
-- `yarn android` - run on Android.
-- `yarn web` - run on web.
-- `yarn lint` - check code for errors.
-- `yarn release` - generate a changelog, bump the version of app and create a new tag.
-- `yarn test` - run tests.
+- `npm run start` - start Metro Bundler.
+- `npm run ios` - run on iOS.
+- `npm run android` - run on Android.
+- `npm run web` - run on web.
+- `npm run lint` - check code for errors.
+- `npm run prettier` - run Prettier formatter.
+- `npm run release` - generate a changelog, bump the version of app and create a new tag.
+- `npm run test` - run tests.

@@ -1,1 +1,1 @@
-yarn lint && npx --no-install commitlint --edit "$1"
+npm run lint && npx --no-install commitlint --edit "$1"
