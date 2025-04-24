@@ -1,1 +1,1 @@
-npm run lint && npx --no-install commitlint --edit "$1"
+npm run lint && npx --no-install commitlint --config commitlint.config.cjs --edit "$1"
