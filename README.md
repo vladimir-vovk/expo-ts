@@ -7,7 +7,7 @@
 
 <img src="./screen.jpg" width="200"></img>
 
-Using [Expo 52](https://expo.dev/changelog/2024/11-12-sdk-52).
+Using [Expo 53-beta](https://expo.dev/changelog/sdk-53-beta).
 
 Please read [Starting React Native Project in 2025](https://dev.to/vladimirvovk/starting-react-native-project-in-2025-4n25) article for details.
 
