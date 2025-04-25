@@ -43,8 +43,7 @@
     "expo-status-bar": "~2.2.1",
     "react": "19.0",
     "react-native": "0.79.1",
-    "react-native-safe-area-context": "5.3.0",
-    "react-test-renderer": "19.0.0"
+    "react-native-safe-area-context": "5.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -66,6 +65,7 @@
     "jest-expo": "~53.0.0-preview.3",
     "lint-staged": "^15.5.1",
     "prettier": "^3.5.3",
+    "react-test-renderer": "^19.0.0",
     "standard-version": "^9.5.0",
     "typescript": "~5.8.3"
   }
