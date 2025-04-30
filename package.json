@@ -1,6 +1,6 @@
 {
   "name": "expo-ts",
-  "version": "2025.04.27",
+  "version": "2025.04.30",
   "description": "An opinionated template that will allow you to start a new React Native project quickly with Expo, TypeScript, Prettier, ESLint, and some custom configurations that will make development process better",
   "main": "index.ts",
   "scripts": {
